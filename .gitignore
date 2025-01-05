@@ -1,0 +1,6 @@
+trainer*
+evaluate*
+foundational_model
+.venv
+.DS_Store
+.ipynb_checkpoints
