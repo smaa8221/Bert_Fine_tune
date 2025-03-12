@@ -43,6 +43,4 @@ This project is licensed under the MIT License.
 This project was inspired by the Hugging Face Transformers library and the IMDB dataset.
 
 # Contact
-This repository is used in the blog: [Link to the blog](https://www.linkedin.com/pulse/mastering-fine-tuning-llm-models-effortlessly-hugging-kerbachi-xcnhe/?trackingId=l%2FiXDFzgQOi3ulfK8GsRmw%3D%3D)
-
-If you have any questions or would like to contribute to this project, please contact me at: m AT kerbachi dot com.
+This repository is originally used in the blog: [Link to the blog](https://www.linkedin.com/pulse/mastering-fine-tuning-llm-models-effortlessly-hugging-kerbachi-xcnhe/?trackingId=l%2FiXDFzgQOi3ulfK8GsRmw%3D%3D)

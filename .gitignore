@@ -4,3 +4,5 @@ foundational_model
 .venv
 .DS_Store
 .ipynb_checkpoints
+local_model
+imdb
